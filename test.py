@@ -1,2 +1,2 @@
 print('Git hub ...!!')
-print('This is second one')
+print('second one')
